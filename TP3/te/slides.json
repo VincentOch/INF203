@@ -1,0 +1,28 @@
+{
+  "slides": [
+    {
+      "time": 0,
+      "url": "https://perso.telecom-paris.fr/dufourd/cours/git/git-l2.htm"
+    },
+    {
+      "time": 2,
+      "url": "https://perso.telecom-paris.fr/dufourd/cours/inf203/js.html#/equality"
+    },
+    {
+      "time": 4,
+      "url": "https://perso.telecom-paris.fr/dufourd/cours/git/slr201.htm#/git"
+    },
+    {
+      "time": 6,
+      "url": "https://perso.telecom-paris.fr/dufourd/cours/inf203/svg.html#/text-in-svg"
+    },
+    {
+      "time": 8,
+      "url": "https://perso.telecom-paris.fr/dufourd/cours/inf203/internet.html#/dns-domain-name-system"
+    },
+    {
+      "time": 10,
+      "url": ""
+    }
+  ]
+}

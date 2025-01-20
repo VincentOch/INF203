@@ -1,0 +1,22 @@
+#dd1{
+    border:1px;
+    border-style: solid;
+    padding:8px;
+}
+#dd2 img{
+    margin:8px;
+    float : left;
+}
+
+#dd3{
+    background-color: dimgrey;
+    margin: 10px;
+}
+
+.dd3class{
+    position: fixed;
+    top:124px;
+    left:124px;
+    width:415px;
+    height : 415px;
+}

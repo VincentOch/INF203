@@ -1,0 +1,30 @@
+#dd1{
+    border:1px;
+    border-style: solid;
+    padding:8px;
+}
+#dd2 img{
+    margin:8px;
+    float : left;
+}
+
+#dd3{
+    background-color: dimgrey;
+    margin: 10px;
+}
+
+.dd3class{
+    position: absolute;
+    top:83px;
+    left:83px;
+    width:455px;
+    height : 455px;
+}
+
+.dd3class:active{
+    display:none;
+}
+
+.dd3class:hover{
+    color:tomato;
+}

@@ -1,0 +1,14 @@
+#dd1{
+    border:1px;
+    border-style: solid;
+    padding:8px;
+}
+#dd2 img{
+    margin:8px;
+    float : left;
+}
+
+#dd3{
+    background-color: dimgrey;
+    margin: 10px;
+}
